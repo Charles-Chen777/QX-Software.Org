@@ -60,14 +60,4 @@
     <endtime>2016-03-29 11:52:43</endtime>
     <recsecond>5098</recsecond>
   </Record>
-  <Record Type="Normal" FlowID="1459223816">
-    <starttime>2016-03-29 11:56:42</starttime>
-    <endtime>2016-03-29 11:56:56</endtime>
-    <recsecond>10</recsecond>
-  </Record>
-  <Record Type="Normal" FlowID="1459223932">
-    <starttime>2016-03-29 11:58:46</starttime>
-    <endtime>2016-03-29 11:58:52</endtime>
-    <recsecond>5</recsecond>
-  </Record>
 </WorkTimeList>
